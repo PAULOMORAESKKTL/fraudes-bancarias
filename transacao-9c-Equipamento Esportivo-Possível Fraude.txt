@@ -1,0 +1,14 @@
+Recomendação: Acionar setor Anti-Fraude
+
+Justificativa: Devido ao status de "Possível Fraude" e aos detalhes apresentados no parecer, é necessário uma investigação mais aprofundada pelo setor especializado.
+
+Ações recomendadas:
+1. Suspender temporariamente a transação.
+2. Iniciar protocolo de investigação detalhada.
+3. Analisar o histórico de compras do cliente para identificar padrões discrepantes.
+4. Verificar a geolocalização da transação em relação ao endereço habitual do cliente.
+5. Contatar o estabelecimento para confirmar detalhes da venda.
+
+Classificação do tipo de fraude potencial: Fraude de Aquisição de Produtos de Alto Valor
+
+Observação: Caso a investigação confirme a suspeita, considerar notificar o cliente e possivelmente bloquear o cartão preventivamente.
